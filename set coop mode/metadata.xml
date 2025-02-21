@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Set Co-op Mode</name>
+    <directory>set coop mode</directory>
+    <id>3431338502</id>
+    <description>Repentance has two co-op modes: true co-op and co-op babies. By default, true co-op is only available in the starting room of your run. This mod allows you to start true co-op from anywhere.
+
+Mod Config Menu is required to change settings.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
